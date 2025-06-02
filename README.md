@@ -1,4 +1,4 @@
-# portscanner
+# Portscanner
 IMPORTANT SECURITY NOTICE & DISCLAIMER
 
 This port scanner is written for Becode Python Project. It is provided for EDUCATIONAL PURPOSES ONLY. Unauthorized port scanning is ILLEGAL and UNETHICAL.
